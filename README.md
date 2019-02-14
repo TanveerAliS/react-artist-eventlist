@@ -33,7 +33,7 @@ Update below line in Package.json
    `git push heroku master `
                                          
    ### Demo 
-     https://react-artist-eventlist.herokuapp.com/`](https://react-artist-eventlist.herokuapp.com/)                          
+     [https://react-artist-eventlist.herokuapp.com/`](https://react-artist-eventlist.herokuapp.com/)                          
 
     
 ## Available Scripts
