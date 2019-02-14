@@ -10,15 +10,15 @@ Update below line in Package.json
 
    yarn build
    
-   Login to heroku -> 
+   #Login to heroku -> 
    
    `heroku login`
    
-   create App -> 
+   #create App -> 
    
    `heroku create react-artist-eventlist`
    
-   Then push your app build to heroku -> 
+   #Then push your app build to heroku -> 
    
    `yarn install`
    
@@ -32,7 +32,8 @@ Update below line in Package.json
    
    `git push heroku master `
                                          
-   React build -> [https://react-artist-eventlist.herokuapp.com/`](https://react-artist-eventlist.herokuapp.com/)                          
+   ###Demo 
+     https://react-artist-eventlist.herokuapp.com/`](https://react-artist-eventlist.herokuapp.com/)                          
 
     
 ## Available Scripts
