@@ -12,22 +12,22 @@ Update below line in Package.json
    
    Login to heroku -> 
    
-   heroku login
+   `heroku login`
    
    create App -> 
    
-   heroku create react-artist-eventlist
+   `heroku create react-artist-eventlist`
    
    Then push your app build to heroku -> 
    
-   yarn install
+   `yarn install
    git init 
    git add . 
    git commit -m "initial commit"
    heroku git:remote -a react-artist-eventlist
-   git push heroku master 
+   git push heroku master `
                                          
-   React build -> https://react-artist-eventlist.herokuapp.com/                              
+   React build -> `https://react-artist-eventlist.herokuapp.com/`                            
 
     
 ## Available Scripts
