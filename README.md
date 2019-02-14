@@ -4,22 +4,30 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Update below line in Package.json 
 
-    "start": "react-scripts start",
+    "start": "react-scripts start"
     
 ## Create produciton build 
 
    yarn build
    
-   Login to heroku -> heroku login
-   create App -> heroku create react-artist-eventlist
-   Then push your app build to heroku -> yarn install
-                                         git init 
-                                         git add . 
-                                         git commit -m "initial commit"
-                                         heroku git:remote -a react-artist-eventlist
-                                         git push heroku master 
+   Login to heroku -> 
+   
+   heroku login
+   
+   create App -> 
+   
+   heroku create react-artist-eventlist
+   
+   Then push your app build to heroku -> 
+   
+   yarn install
+   git init 
+   git add . 
+   git commit -m "initial commit"
+   heroku git:remote -a react-artist-eventlist
+   git push heroku master 
                                          
-    React build -> https://react-artist-eventlist.herokuapp.com/                              
+   React build -> https://react-artist-eventlist.herokuapp.com/                              
 
     
 ## Available Scripts
