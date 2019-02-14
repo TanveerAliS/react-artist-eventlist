@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Steps to Run application in local system
+## Run application in local system
 
 Update below line in Package.json 
 
@@ -21,10 +21,15 @@ Update below line in Package.json
    Then push your app build to heroku -> 
    
    `yarn install`
+   
    `git init `
+   
    `git add . `
+   
    `git commit -m "initial commit"`
+   
    `heroku git:remote -a react-artist-eventlist`
+   
    `git push heroku master `
                                          
    React build -> [https://react-artist-eventlist.herokuapp.com/`](https://react-artist-eventlist.herokuapp.com/)                          
