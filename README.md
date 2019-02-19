@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and  ### [Demo](https://react-artist-eventlist.herokuapp.com/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Demo](https://react-artist-eventlist.herokuapp.com/)
 
 ## Run application in local system
 
