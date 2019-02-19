@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and  ### [Demo](https://react-artist-eventlist.herokuapp.com/)
 
 ## Run application in local system
 
@@ -31,10 +31,7 @@ Update below line in Package.json
    `heroku git:remote -a react-artist-eventlist`
    
    `git push heroku master `
-                                         
-   ### [Demo](https://react-artist-eventlist.herokuapp.com/)                
-
-    
+                                                            
 ## Available Scripts
 
 In the project directory, you can run:
